@@ -16,3 +16,9 @@ asdf uninstall erlang 26.0.2
 asdf install erlang 26.0.2
 asdf local erlang 26.0.2
 ```
+
+## Current Issues
+- Everything in the original issue
+- Should probably run `ex_doc` from source to test stuff
+- Additionally Search doesn't appear to be working
+  - Need to build docs w/o minifying JS for readable errors
